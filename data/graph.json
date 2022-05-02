@@ -1,0 +1,838 @@
+{
+  "v0": [
+    {
+      "target": "v1",
+      "weight": 37
+    },
+    {
+      "target": "v0",
+      "weight": 72
+    },
+    {
+      "target": "v18",
+      "weight": 92
+    },
+    {
+      "target": "v6",
+      "weight": 64
+    },
+    {
+      "target": "v17",
+      "weight": 49
+    },
+    {
+      "target": "v8",
+      "weight": 51
+    },
+    {
+      "target": "v1",
+      "weight": 95
+    },
+    {
+      "target": "v14",
+      "weight": 1
+    }
+  ],
+  "v1": [
+    {
+      "target": "v0",
+      "weight": 1
+    },
+    {
+      "target": "v9",
+      "weight": 83
+    },
+    {
+      "target": "v14",
+      "weight": 88
+    },
+    {
+      "target": "v15",
+      "weight": 31
+    },
+    {
+      "target": "v6",
+      "weight": 95
+    },
+    {
+      "target": "v19",
+      "weight": 67
+    }
+  ],
+  "v2": [
+    {
+      "target": "v6",
+      "weight": 2
+    },
+    {
+      "target": "v19",
+      "weight": 21
+    },
+    {
+      "target": "v6",
+      "weight": 14
+    },
+    {
+      "target": "v19",
+      "weight": 62
+    },
+    {
+      "target": "v1",
+      "weight": 13
+    },
+    {
+      "target": "v12",
+      "weight": 16
+    }
+  ],
+  "v3": [
+    {
+      "target": "v7",
+      "weight": 0
+    }
+  ],
+  "v4": [
+    {
+      "target": "v18",
+      "weight": 25
+    },
+    {
+      "target": "v7",
+      "weight": 22
+    },
+    {
+      "target": "v7",
+      "weight": 84
+    },
+    {
+      "target": "v5",
+      "weight": 69
+    },
+    {
+      "target": "v1",
+      "weight": 58
+    },
+    {
+      "target": "v15",
+      "weight": 28
+    },
+    {
+      "target": "v2",
+      "weight": 83
+    },
+    {
+      "target": "v9",
+      "weight": 38
+    },
+    {
+      "target": "v16",
+      "weight": 4
+    },
+    {
+      "target": "v17",
+      "weight": 32
+    },
+    {
+      "target": "v14",
+      "weight": 94
+    }
+  ],
+  "v5": [
+    {
+      "target": "v2",
+      "weight": 35
+    },
+    {
+      "target": "v14",
+      "weight": 74
+    },
+    {
+      "target": "v18",
+      "weight": 90
+    },
+    {
+      "target": "v13",
+      "weight": 2
+    },
+    {
+      "target": "v7",
+      "weight": 30
+    },
+    {
+      "target": "v16",
+      "weight": 13
+    },
+    {
+      "target": "v6",
+      "weight": 26
+    },
+    {
+      "target": "v10",
+      "weight": 64
+    },
+    {
+      "target": "v12",
+      "weight": 1
+    },
+    {
+      "target": "v1",
+      "weight": 15
+    },
+    {
+      "target": "v5",
+      "weight": 58
+    },
+    {
+      "target": "v16",
+      "weight": 44
+    },
+    {
+      "target": "v19",
+      "weight": 40
+    },
+    {
+      "target": "v10",
+      "weight": 87
+    },
+    {
+      "target": "v0",
+      "weight": 36
+    },
+    {
+      "target": "v8",
+      "weight": 28
+    },
+    {
+      "target": "v11",
+      "weight": 16
+    }
+  ],
+  "v6": [
+    {
+      "target": "v9",
+      "weight": 53
+    },
+    {
+      "target": "v18",
+      "weight": 78
+    },
+    {
+      "target": "v19",
+      "weight": 21
+    },
+    {
+      "target": "v11",
+      "weight": 3
+    },
+    {
+      "target": "v11",
+      "weight": 14
+    }
+  ],
+  "v7": [
+    {
+      "target": "v3",
+      "weight": 70
+    }
+  ],
+  "v8": [
+    {
+      "target": "v8",
+      "weight": 99
+    },
+    {
+      "target": "v2",
+      "weight": 4
+    },
+    {
+      "target": "v10",
+      "weight": 45
+    },
+    {
+      "target": "v13",
+      "weight": 89
+    },
+    {
+      "target": "v5",
+      "weight": 36
+    },
+    {
+      "target": "v13",
+      "weight": 53
+    },
+    {
+      "target": "v17",
+      "weight": 92
+    },
+    {
+      "target": "v10",
+      "weight": 52
+    }
+  ],
+  "v9": [
+    {
+      "target": "v2",
+      "weight": 44
+    },
+    {
+      "target": "v6",
+      "weight": 85
+    },
+    {
+      "target": "v17",
+      "weight": 26
+    },
+    {
+      "target": "v15",
+      "weight": 78
+    },
+    {
+      "target": "v5",
+      "weight": 53
+    },
+    {
+      "target": "v8",
+      "weight": 9
+    },
+    {
+      "target": "v2",
+      "weight": 53
+    },
+    {
+      "target": "v4",
+      "weight": 40
+    },
+    {
+      "target": "v17",
+      "weight": 76
+    },
+    {
+      "target": "v2",
+      "weight": 63
+    },
+    {
+      "target": "v9",
+      "weight": 44
+    },
+    {
+      "target": "v13",
+      "weight": 40
+    }
+  ],
+  "v10": [
+    {
+      "target": "v0",
+      "weight": 34
+    },
+    {
+      "target": "v19",
+      "weight": 99
+    },
+    {
+      "target": "v13",
+      "weight": 17
+    },
+    {
+      "target": "v16",
+      "weight": 68
+    },
+    {
+      "target": "v3",
+      "weight": 19
+    },
+    {
+      "target": "v1",
+      "weight": 23
+    },
+    {
+      "target": "v4",
+      "weight": 25
+    },
+    {
+      "target": "v0",
+      "weight": 20
+    },
+    {
+      "target": "v2",
+      "weight": 72
+    },
+    {
+      "target": "v15",
+      "weight": 16
+    },
+    {
+      "target": "v18",
+      "weight": 63
+    },
+    {
+      "target": "v0",
+      "weight": 24
+    },
+    {
+      "target": "v6",
+      "weight": 6
+    },
+    {
+      "target": "v9",
+      "weight": 20
+    }
+  ],
+  "v11": [
+    {
+      "target": "v18",
+      "weight": 1
+    },
+    {
+      "target": "v13",
+      "weight": 38
+    },
+    {
+      "target": "v0",
+      "weight": 31
+    },
+    {
+      "target": "v17",
+      "weight": 38
+    },
+    {
+      "target": "v16",
+      "weight": 45
+    },
+    {
+      "target": "v17",
+      "weight": 75
+    },
+    {
+      "target": "v10",
+      "weight": 0
+    },
+    {
+      "target": "v5",
+      "weight": 27
+    },
+    {
+      "target": "v1",
+      "weight": 79
+    }
+  ],
+  "v12": [
+    {
+      "target": "v8",
+      "weight": 80
+    },
+    {
+      "target": "v15",
+      "weight": 91
+    }
+  ],
+  "v13": [
+    {
+      "target": "v9",
+      "weight": 22
+    },
+    {
+      "target": "v4",
+      "weight": 22
+    },
+    {
+      "target": "v8",
+      "weight": 1
+    },
+    {
+      "target": "v6",
+      "weight": 66
+    },
+    {
+      "target": "v12",
+      "weight": 53
+    },
+    {
+      "target": "v17",
+      "weight": 54
+    },
+    {
+      "target": "v1",
+      "weight": 24
+    },
+    {
+      "target": "v2",
+      "weight": 20
+    },
+    {
+      "target": "v14",
+      "weight": 88
+    },
+    {
+      "target": "v17",
+      "weight": 47
+    },
+    {
+      "target": "v12",
+      "weight": 95
+    },
+    {
+      "target": "v10",
+      "weight": 84
+    },
+    {
+      "target": "v10",
+      "weight": 14
+    },
+    {
+      "target": "v18",
+      "weight": 87
+    },
+    {
+      "target": "v10",
+      "weight": 3
+    },
+    {
+      "target": "v10",
+      "weight": 34
+    },
+    {
+      "target": "v12",
+      "weight": 94
+    },
+    {
+      "target": "v3",
+      "weight": 27
+    }
+  ],
+  "v14": [
+    {
+      "target": "v10",
+      "weight": 57
+    },
+    {
+      "target": "v7",
+      "weight": 99
+    },
+    {
+      "target": "v17",
+      "weight": 25
+    },
+    {
+      "target": "v0",
+      "weight": 51
+    },
+    {
+      "target": "v17",
+      "weight": 14
+    },
+    {
+      "target": "v4",
+      "weight": 64
+    },
+    {
+      "target": "v12",
+      "weight": 75
+    },
+    {
+      "target": "v16",
+      "weight": 5
+    },
+    {
+      "target": "v18",
+      "weight": 14
+    },
+    {
+      "target": "v4",
+      "weight": 33
+    },
+    {
+      "target": "v0",
+      "weight": 95
+    },
+    {
+      "target": "v6",
+      "weight": 12
+    },
+    {
+      "target": "v18",
+      "weight": 28
+    },
+    {
+      "target": "v7",
+      "weight": 59
+    },
+    {
+      "target": "v13",
+      "weight": 79
+    },
+    {
+      "target": "v10",
+      "weight": 59
+    }
+  ],
+  "v15": [
+    {
+      "target": "v0",
+      "weight": 28
+    },
+    {
+      "target": "v15",
+      "weight": 42
+    },
+    {
+      "target": "v11",
+      "weight": 12
+    },
+    {
+      "target": "v13",
+      "weight": 97
+    },
+    {
+      "target": "v4",
+      "weight": 62
+    },
+    {
+      "target": "v0",
+      "weight": 62
+    },
+    {
+      "target": "v4",
+      "weight": 19
+    },
+    {
+      "target": "v13",
+      "weight": 95
+    },
+    {
+      "target": "v19",
+      "weight": 39
+    },
+    {
+      "target": "v19",
+      "weight": 79
+    },
+    {
+      "target": "v5",
+      "weight": 12
+    },
+    {
+      "target": "v4",
+      "weight": 84
+    },
+    {
+      "target": "v14",
+      "weight": 64
+    },
+    {
+      "target": "v5",
+      "weight": 9
+    },
+    {
+      "target": "v7",
+      "weight": 4
+    },
+    {
+      "target": "v8",
+      "weight": 85
+    },
+    {
+      "target": "v13",
+      "weight": 65
+    },
+    {
+      "target": "v14",
+      "weight": 42
+    },
+    {
+      "target": "v14",
+      "weight": 88
+    }
+  ],
+  "v16": [
+    {
+      "target": "v17",
+      "weight": 72
+    },
+    {
+      "target": "v3",
+      "weight": 44
+    },
+    {
+      "target": "v12",
+      "weight": 94
+    },
+    {
+      "target": "v2",
+      "weight": 41
+    },
+    {
+      "target": "v9",
+      "weight": 22
+    }
+  ],
+  "v17": [
+    {
+      "target": "v7",
+      "weight": 9
+    },
+    {
+      "target": "v2",
+      "weight": 56
+    },
+    {
+      "target": "v11",
+      "weight": 36
+    },
+    {
+      "target": "v14",
+      "weight": 43
+    },
+    {
+      "target": "v10",
+      "weight": 49
+    },
+    {
+      "target": "v14",
+      "weight": 92
+    },
+    {
+      "target": "v15",
+      "weight": 16
+    },
+    {
+      "target": "v11",
+      "weight": 39
+    },
+    {
+      "target": "v11",
+      "weight": 21
+    },
+    {
+      "target": "v14",
+      "weight": 38
+    }
+  ],
+  "v18": [
+    {
+      "target": "v11",
+      "weight": 87
+    },
+    {
+      "target": "v16",
+      "weight": 1
+    },
+    {
+      "target": "v14",
+      "weight": 76
+    },
+    {
+      "target": "v4",
+      "weight": 67
+    },
+    {
+      "target": "v4",
+      "weight": 40
+    },
+    {
+      "target": "v14",
+      "weight": 25
+    },
+    {
+      "target": "v9",
+      "weight": 80
+    },
+    {
+      "target": "v19",
+      "weight": 25
+    },
+    {
+      "target": "v12",
+      "weight": 93
+    },
+    {
+      "target": "v12",
+      "weight": 15
+    },
+    {
+      "target": "v5",
+      "weight": 66
+    },
+    {
+      "target": "v1",
+      "weight": 17
+    },
+    {
+      "target": "v18",
+      "weight": 79
+    },
+    {
+      "target": "v15",
+      "weight": 19
+    },
+    {
+      "target": "v18",
+      "weight": 69
+    },
+    {
+      "target": "v12",
+      "weight": 73
+    },
+    {
+      "target": "v9",
+      "weight": 93
+    }
+  ],
+  "v19": [
+    {
+      "target": "v18",
+      "weight": 62
+    },
+    {
+      "target": "v14",
+      "weight": 86
+    },
+    {
+      "target": "v11",
+      "weight": 70
+    },
+    {
+      "target": "v17",
+      "weight": 8
+    },
+    {
+      "target": "v18",
+      "weight": 2
+    },
+    {
+      "target": "v12",
+      "weight": 47
+    },
+    {
+      "target": "v0",
+      "weight": 34
+    },
+    {
+      "target": "v6",
+      "weight": 65
+    },
+    {
+      "target": "v9",
+      "weight": 32
+    },
+    {
+      "target": "v14",
+      "weight": 6
+    },
+    {
+      "target": "v0",
+      "weight": 69
+    },
+    {
+      "target": "v15",
+      "weight": 86
+    },
+    {
+      "target": "v12",
+      "weight": 40
+    },
+    {
+      "target": "v7",
+      "weight": 86
+    }
+  ]
+}

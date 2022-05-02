@@ -1,0 +1,30 @@
+{
+  "name": "front-end-template",
+  "version": "1.0.0",
+  
+  "main": "index.js",
+  
+  "author": "<ppominville@salesforce.com>",
+  "license": "MIT",
+  "scripts": {
+    "tsn": "yarn ts-node",
+    "test": "jest",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.21.0",
+    "@typescript-eslint/parser": "^5.21.0",
+    "prettier": "^2.6.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.10",
+    "@babel/preset-env": "^7.17.10",
+    "@babel/preset-typescript": "^7.16.7",
+    "@types/jest": "^27.4.1",
+    "babel-jest": "^28.0.3",
+    "eslint": "^8.14.0",
+    "jest": "^28.0.3",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  }
+}

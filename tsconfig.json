@@ -1,0 +1,32 @@
+{
+    "ts-node": {  "files": true },
+    "compilerOptions": {
+        "strict": true,
+        "noUnusedLocals": true,  
+        "noImplicitAny": true,
+        "module": "CommonJS",
+        "moduleResolution": "Node",
+        "target": "es2020",
+        "baseUrl": ".",
+     
+       
+        "sourceMap": true,
+        "outDir": "build",
+        // Don't automatically include anything.
+        // Only include `@types` packages that we need to import.
+        "types": [
+            "jest",
+            "node"
+        ],
+        "resolveJsonModule": true,
+        "esModuleInterop": true,
+        "lib": ["es2020"],
+    },
+    "include": [
+        "src", "@types", "scripts"
+    ],
+    "exclude": [
+        "node_modules",
+        "**/node_modules/*"
+    ]
+}

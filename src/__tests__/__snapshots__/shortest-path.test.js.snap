@@ -1,0 +1,232 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Complex Graph all shortest path 1`] = `
+Array [
+  Object {
+    "path": Array [
+      "v0",
+    ],
+    "value": 0,
+  },
+  Object {
+    "path": Array [
+      "v0",
+      "v14",
+      "v18",
+      "v1",
+    ],
+    "value": 32,
+  },
+  Object {
+    "path": Array [
+      "v0",
+      "v14",
+      "v6",
+      "v11",
+      "v10",
+      "v13",
+      "v8",
+      "v2",
+    ],
+    "value": 38,
+  },
+  Object {
+    "path": Array [
+      "v0",
+      "v14",
+      "v6",
+      "v11",
+      "v10",
+      "v3",
+    ],
+    "value": 35,
+  },
+  Object {
+    "path": Array [
+      "v0",
+      "v14",
+      "v4",
+    ],
+    "value": 34,
+  },
+  Object {
+    "path": Array [
+      "v0",
+      "v14",
+      "v17",
+      "v15",
+      "v5",
+    ],
+    "value": 40,
+  },
+  Object {
+    "path": Array [
+      "v0",
+      "v14",
+      "v6",
+    ],
+    "value": 13,
+  },
+  Object {
+    "path": Array [
+      "v0",
+      "v14",
+      "v17",
+      "v7",
+    ],
+    "value": 24,
+  },
+  Object {
+    "path": Array [
+      "v0",
+      "v14",
+      "v6",
+      "v11",
+      "v10",
+      "v13",
+      "v8",
+    ],
+    "value": 34,
+  },
+  Object {
+    "path": Array [
+      "v0",
+      "v14",
+      "v16",
+      "v9",
+    ],
+    "value": 28,
+  },
+  Object {
+    "path": Array [
+      "v0",
+      "v14",
+      "v6",
+      "v11",
+      "v10",
+    ],
+    "value": 16,
+  },
+  Object {
+    "path": Array [
+      "v0",
+      "v14",
+      "v6",
+      "v11",
+    ],
+    "value": 16,
+  },
+  Object {
+    "path": Array [
+      "v0",
+      "v14",
+      "v18",
+      "v12",
+    ],
+    "value": 30,
+  },
+  Object {
+    "path": Array [
+      "v0",
+      "v14",
+      "v6",
+      "v11",
+      "v10",
+      "v13",
+    ],
+    "value": 33,
+  },
+  Object {
+    "path": Array [
+      "v0",
+      "v14",
+    ],
+    "value": 1,
+  },
+  Object {
+    "path": Array [
+      "v0",
+      "v14",
+      "v17",
+      "v15",
+    ],
+    "value": 31,
+  },
+  Object {
+    "path": Array [
+      "v0",
+      "v14",
+      "v16",
+    ],
+    "value": 6,
+  },
+  Object {
+    "path": Array [
+      "v0",
+      "v14",
+      "v17",
+    ],
+    "value": 15,
+  },
+  Object {
+    "path": Array [
+      "v0",
+      "v14",
+      "v18",
+    ],
+    "value": 15,
+  },
+  Object {
+    "path": Array [
+      "v0",
+      "v14",
+      "v6",
+      "v19",
+    ],
+    "value": 34,
+  },
+]
+`;
+
+exports[`Test Simple Graph all shortest path 1`] = `
+Array [
+  Object {
+    "path": Array [
+      "A",
+    ],
+    "value": 0,
+  },
+  Object {
+    "path": Array [
+      "A",
+      "D",
+      "B",
+    ],
+    "value": 3,
+  },
+  Object {
+    "path": Array [
+      "A",
+      "D",
+      "E",
+      "C",
+    ],
+    "value": 7,
+  },
+  Object {
+    "path": Array [
+      "A",
+      "D",
+    ],
+    "value": 1,
+  },
+  Object {
+    "path": Array [
+      "A",
+      "D",
+      "E",
+    ],
+    "value": 2,
+  },
+]
+`;
